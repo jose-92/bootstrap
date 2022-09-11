@@ -1,0 +1,38 @@
+
+
+.car__colchones:hover{
+    background-color:rgb(52, 90, 173);
+    border-radius: 10px;
+    height: inherit;
+    text-decoration: nones;
+    padding: 5px;
+    height: 40px;
+    
+
+}
+
+.fotter{
+    height: 100px;
+    color: #FFF;
+    background-color: rgb(49, 45, 45);
+    margin-top: 100px;
+    width: 94%;
+}
+.container__navbar{
+    display: flex;
+    background-color: #004797;
+    color: white;
+    align-items: center;
+}
+
+.container__navbar a {
+    color:#fff;
+}
+.navbar-nav{
+    margin-left: 20PX;
+    margin-top: 30PX;
+
+}
+
+
+

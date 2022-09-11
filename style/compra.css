@@ -1,0 +1,27 @@
+.container__compra{
+    display: flex   ;
+    justify-content: space-between;
+}
+
+.container__caraasteristicas{
+   
+    width: 100%;
+    text-align: left;
+    margin-left: 50px;
+
+}
+.container__button{
+    margin-top: 50px;
+}
+
+.parrafo__antes{
+    opacity: 0.5;
+}
+
+.container__imanes-compra{
+    display: grid;
+    grid-template-columns: 100px 100px 100px 100px;
+}
+.container__imanes-compra{
+    grid-gap: 32px;
+}
